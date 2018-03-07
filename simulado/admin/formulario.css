@@ -1,0 +1,1495 @@
+/* **************************************** */
+/* *************** INCLUSÃƒO V18 *************** */
+/* **************************************** */
+/*************** CIDADE *****************/
+.bgAzul{
+    background-color:#fafdff;
+    border-left:1px solid #b6c8dc;
+    border-right:1px solid #b6c8dc;
+    display:table;
+    width:767px;
+    *width:769px;   
+    padding:10px 0px 10px 0px; 
+}
+.multi_Cidades{
+    width:240px;
+    float:left;
+    text-align:left;
+}
+.multi_Cidades ul{
+    width:238px;
+}
+.multi_Cidades select{
+    width:240px;
+    margin-bottom:5px;
+    text-align:left;
+}
+.label_02{
+    width:250px;
+    margin-bottom:2px;
+    padding-top:3px;
+    height:21px;
+}
+.btn_Action{
+    float:left;
+    margin:40px 50px 0px 48px;
+}
+.btn_Action input{
+    float:left;
+    margin-top:15px;
+    
+}
+.form{
+    margin-left:30px;
+}
+.texto11{
+    font-size:11px;
+    text-align:left;
+}
+.texto_Normal{
+    padding-top:7px;
+    margin-left:4px;
+    display: table;
+    text-align:left;
+}
+/*************** CIDADE *****************/
+/* ************** GERAIS ************* */
+br {
+    clear:left;
+}
+form {
+    display:inline;
+}
+a:link {
+    text-decoration:none;
+}
+a:visited {
+    text-decoration:none;
+}
+a:hover {
+    text-decoration:underline;
+}
+a:active {
+    text-decoration:none;
+}
+body {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #FFFFFF;
+    margin: 15px 0 0 0;
+
+}
+p, table, td, ul {
+    font-size: 12px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+input, select, textarea {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#333333;
+}
+.small {
+    font-size: 10px;
+}
+.big {
+    font-size: 12px;
+}
+.bbig {
+    font-size: 16px;
+}
+/* margin: top right bottom left */
+/* ************** topo ************* */
+#inc_v18 {
+    width:770px;
+    margin:0 auto; 
+    text-align: left;
+}
+#topoYah {
+    width:770px;
+    height:80px;
+    margin-top:0px;
+    padding-top:0px;
+    background: url(img/topoYah.gif) no-repeat;
+}
+/* ************** conteÃºdo ************* */
+.help {
+        
+}
+.fundof {
+float:left;
+    width:720px;
+    clear:both;
+    margin:0 auto;
+}
+.telfundof {
+    clear:both;
+    margin:0 auto;
+}
+.fundov {
+    /* width:710px; */
+    /* float:left; */
+    clear:both;
+    margin-top:1px;
+    padding-bottom:1px;
+    
+}
+.fazul {
+    background:#E1EDF6;
+    color:#333;
+}
+.fcinza {
+    background:#EEEEEE;
+    color: #333;
+}
+.fuazul {
+    width: 196px;
+    color:#333333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: right;
+    display: block; 
+    float: left;
+    padding-top: 8px;
+    *padding-top: 6px;
+    padding-right: 4px;
+    padding-bottom: 8px;
+    *padding-bottom: 7px;
+    /* background:#f8f8f8; */
+    background:#f0f0f0;
+    margin:1px 0px 1px 1px; 
+    
+}
+.telfuazul {
+    width: 85px;
+    color:#333333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: right;
+    display: block; 
+    float: left;
+    padding-top: 5px;
+    #padding-top: 6px;
+    padding-right: 4px;
+    padding-bottom: 7px;
+    /* background:#f8f8f8; */
+    /*background:#f0f0f0;*/
+    margin:1px 0px 1px 1px; 
+}
+.fucinza {
+    width: 514px;
+    float: left;
+    /* background:#f6fbff; 
+    background:#f8f8f8;*/
+
+    
+    /*padding-top: 3px;
+    #padding-top: 2px;
+    padding-bottom: 3px;
+    #padding-bottom: 4px;   */
+    padding-left: 3px;
+    margin:1px 0px 1px 1px; 
+}
+
+.fucinzaLayerAviso {
+    width: 530px;
+    float: left;
+    /* background:#f6fbff; 
+    background:#f8f8f8;*/
+    background:#f8f8f8;
+    
+    /*padding-top: 3px;
+    #padding-top: 2px;
+    padding-bottom: 3px;
+    #padding-bottom: 4px;   */
+    padding-left: 3px;
+    margin:1px 0px 1px 1px; 
+}
+
+.formAviso {
+    float:left;
+    width: 320px !important; 
+    height: 22px !important;
+    background-color: #f8f8f8 !important;   
+    padding-top: 3px;
+    #padding-top: 2px;
+    padding-bottom: 3px;
+    #padding-bottom: 4px;   
+    padding-left: 3px;
+    /*margin:1px 0px 1px 1px;*/ 
+}
+
+.line {
+    float:left;
+    width: 350px;
+        
+    padding-top: 3px;
+    #padding-top: 2px;
+    padding-bottom: 3px;
+    #padding-bottom: 4px;   
+    padding-left: 3px;
+    /*margin:1px 0px 1px 1px;*/ 
+}
+.fucinzaNoLine {
+    width: 511px;
+    float: left;
+    background:#f8f8f8;
+    
+    margin:1px 0px 1px 1px; 
+        
+    padding-top: 3px;
+    #padding-top: 2px;
+    padding-bottom: 3px;
+    #padding-bottom: 4px;   
+    padding-left: 6px;
+}
+.telfucinza {
+    width: 420px;
+    *width: 417px;
+    float: left;
+    /* background:#f6fbff; 
+    background:#f8f8f8;*/
+    /*background:#f8f8f8;*/
+    
+    /*padding-top: 3px;
+    #padding-top: 2px;
+    padding-bottom: 3px;
+    #padding-bottom: 4px;   */
+    padding-left: 3px;
+    margin:1px 0px 1px 1px; 
+}
+.box-Left {
+    width: 196px;
+    color:#333333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: right;
+    display: block; 
+    float: left;
+    padding-top: 5px;
+    #padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+}
+.box-Right {
+    width: 347px;
+    float: left;
+    padding-top: 3px;
+    #padding-top: 2px;
+    padding-bottom: 3px;
+    #padding-bottom: 4px;   
+    padding-left: 3px;
+}
+.fu {
+    width:650px;
+    padding:4px 4px 4px 30px;
+    display:block;
+}
+.bkgBloco {
+    /* background-image: url(http://img.catho.com.br/site/inclusao/bkgBloco.gif); */
+    border-top:1px solid #FFE5D4; 
+    background-repeat: no-repeat;
+    background-position: top;
+    padding-top: 30px;
+    float: left;
+    display: block;
+    padding-bottom: 60px;
+    clear: both;
+    width:770px;
+}
+.onFocus {
+    background-image: url(http://img.catho.com.br/site/inclusao/bkgFocus.gif);
+    background-repeat: repeat-x;
+    background-position: top;
+/*  border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #333399; */
+}
+.onAlert {
+    background-image: url(http://img.catho.com.br/site/inclusao/bkgAlert.gif);
+    background-repeat: repeat-x;
+    background-position: top;
+/*  border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #CC0000; */
+}
+.boxInfoAlert {
+    position: absolute;
+    width: 216px;
+    margin: 0;
+    background-image: url(http://img.catho.com.br/site/inclusao/imgBoxAlertTop.gif);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.boxInfoHelp {
+    position: absolute;
+    width: 216px;
+    margin: 0;
+    margin-top: 0px;
+    background-image: url(http://img.catho.com.br/site/inclusao/imgBoxHelpTop.gif);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.boxInfoHelp .boxHelpTxt {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #003471;
+    padding-top: 5px;
+    padding-right: 7px;
+    padding-left: 14px;
+    padding-bottom: 7px;
+    background-image: url(http://img.catho.com.br/site/inclusao/imgBoxHelpBot.gif);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.boxInfoAlert .boxAlertTxt {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #9e0b0f;
+    padding-top: 5px;
+    padding-right: 7px;
+    padding-left: 14px;
+    padding-bottom: 7px;
+    background-image: url(http://img.catho.com.br/site/inclusao/imgBoxAlertBot.gif);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.boxInfoAlertPers {
+    position: relative;
+    width: 706px;
+    margin: 0;
+    background-image: url(http://img.catho.com.br/site/inclusao/imgBoxAlertTopPers.gif);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.boxInfoAlertPers .boxAlertTxtPers {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #9e0b0f;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 8px;
+    padding-bottom: 14px;
+    background-image: url(http://img.catho.com.br/site/inclusao/imgBoxAlertBotPers.gif);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+.boxSuggestion {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #6699FF;
+    background-color: #FFFFFF;
+    width: 330px;
+    margin-top: 23px;
+    #margin-top: 24px;
+    padding-left: 5px;
+    border: 1px solid #95C1DE;
+    overflow: auto;
+    position: absolute;
+}
+.boxSuggestion a, .boxSuggestion a:visited, .boxSuggestion a:active {
+    color: #000066; 
+}
+.boxSuggestion a:hover
+{
+    text-decoration: none;
+    cursor: default;    
+}
+.fundofzin {
+    width:770px;
+    float:left;
+    clear:both; 
+    margin-top:10px;
+    padding: 20px 0px 2px 0px;
+    padding-bottom:2px;
+    background-image: url('img/fundobns.gif'); #background-image: url('img/fundob.gif');
+    background-repeat: repeat-y;
+    background:#fae5e1; 
+}
+#objectiveList td, #cityList td {
+    padding-bottom: 3px;
+}
+.fuazulzin {
+    float:right;
+    vertical-align: bottom;
+    text-align:bottom;
+    clear:both;
+    width:170px;_width:175px;
+    padding: 0px 0px 0px 0px;
+    margin: 0 0 0px 0;
+    color:#d20211;
+    font-size:11px;
+    font-family:arial,tahoma;
+    color:#CC0000;
+}
+.fucinzin {
+    float:left; 
+    width:480px;_width:490px; 
+    padding: 0px 10px 0px 10px;
+    margin: 0 0 1px 0; 
+}
+.fuverme {
+    color:#FFFFFF;
+    background:#d20211;
+    /*
+    width: 196px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: right;
+    float: left;
+    display: block;
+    padding-top: 5px;
+    #padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    */
+}
+.funeutro {
+    clear:both;
+    width:770px; 
+    padding: 4px 4px 4px 4px; 
+    margin: 0 0 1px 0; 
+    background:#EEEEEE;
+}
+.titulo {
+    clear:both;
+    font-size:18px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#000066;
+    text-align:left;
+    padding-left: 5px;
+}
+.subtitulo {
+    width: 710px;
+    display: block;
+    clear: both;
+    font-size:14px;
+    font-family:arial, tahoma;
+    color:#0072bc;
+    text-align:left;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFE5D4;
+    padding-top: 30px;
+    margin-left: 30px;  
+}
+.subsubtitulo {
+    width: 710px;
+    display: block;
+    clear: both;
+    font-size:12px;
+    font-family:arial, tahoma;
+    text-align:left;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #cecece;
+    padding-top: 30px;
+    margin-left: 30px;  
+    *padding-bottom: 2px;
+}
+.subsubtituloLong {
+    width: 770px;
+    display: block;
+    clear: both;
+    font-size:12px;
+    font-family:arial, tahoma;
+    text-align:left;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #cecece;
+    padding-top: 30px;  
+    *padding-bottom: 2px;
+}
+.subtexto {
+    font-size:11px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#000066;
+    padding:0 20px 30px 35px;
+}
+.aviso   {
+    float:left;
+    padding:5px 0 20px 0; 
+}
+.subsub {
+    width: 540px;
+    display: block;
+    clear: both;
+    font-size:12px;
+    font-family:arial, tahoma;
+    color:#0072bc;
+    text-align:left;
+    padding-top: 30px;
+    margin-left: 200px; 
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #cbdde9;
+}
+#dica {
+    clear:both;
+    height:50px;_height:66px;
+    margin: 2px 0 2px 0; 
+    padding: 8px 0 5px 0; 
+    border-top:1px #CCCCCC solid; 
+}
+div#dica a {
+    display: block;
+}
+div#dica a:hover {
+    background: #FFFFFF;
+    text-decoration:none;
+}
+div#dica a span {
+    display: none;
+}
+div#dica a:hover span {
+    display: block;
+    background: #FFE2C2; 
+    width:100%; 
+    border:1px #FF9E35 solid; 
+    padding: 4px; 
+    text-decoration:none;
+    cursor:crosshair;
+}
+#dicavis {
+    background: #FFCC00; 
+    padding-left:80px;
+    padding-top:12px;
+    background: url(img/fdicas.gif) no-repeat;
+}
+#erro {
+    width:500px;
+    padding: 7px;
+    border: 1px #cc0000 solid;
+    background:#F5F5F5;
+    color:#333333;
+    text-align:left;
+}
+.obrig {
+    font-weight:bold;
+}
+.asterisco {
+    font-size: 18px;
+    line-height: 5px;
+}
+/* ***************** ESTILOS ***************** */
+/* ***************** FONTE VERDANA ***************** */
+.vdaz,.vdaz a,.vdaz a:hover         {font-family:verdana,tahoma; color:#000066;}
+.vdvm,.vdvm a,.vdvm a:hover         {font-family:verdana,tahoma; color:#CC0000;}
+.vdazcl,.vdazcl a,.vdazcl a:hover   {font-family:verdana,tahoma; color:#0000FF;}
+.vdbr,.vdbr a,.vdbr a:hover         {font-family:verdana,tahoma; color:#FFFFFF;}
+.vdpr,.vdpr a,.vdpr a:hover         {font-family:verdana,tahoma; color:#333333;}
+.vdcz,.vdcz a,.vdcz a:hover         {font-family:verdana,tahoma; color:#333333;}
+/* ***************** FONTE ARIAL ***************** */
+.araz,.araz a,.araz a:hover {font-family:arial,tahoma; color:#000066;}
+.arazcl,.arazcl a:link,.arazcl a:hover  {font-family:arial,tahoma; color:#0000FF;}
+.arvm,.arvm a,.arvm a:hover {font-family:arial,tahoma; color:#CC0000;}
+.arbr,.arbr a,.arbr a:hover {font-family:arial,tahoma; color:#FFFFFF;}
+.arpr,.arpr a,.arpr a:hover {font-family:arial,tahoma; color:#333333;}
+.arcz,.arcz a,.arcz a:hover {font-family:arial,tahoma; color:#333333;}
+.arczcl,.arczcl a,.arczcl a:hover   {font-family:arial,tahoma; color:#666666;}
+#progressBar {
+    background-image: url(img/imgBgBarra.gif);
+    background-repeat: no-repeat;
+    width: 770px;
+    height: 59px;
+    _height: 69px;
+    padding-top: 10px;
+}
+.customCheckListList{
+    cellpadding: 0;
+}
+.customCheckListChecked {
+    background-color: #fffbd0;
+} 
+/* Style do balÃ£o de descriÃ§Ã£o */
+.balao {
+    width:206px;
+    left:250px;
+    top:250px;
+    position: absolute;
+    visibility: hidden;
+}
+#boxPesqOrigem {
+    width: 510px;
+    border: 1px solid #B6C9DD;  
+    overflow-x: hidden;
+    overflow-y: auto;   
+    padding: 0;
+    margin: 0;
+    background-color: #FFFFFF;
+}
+#boxAreas, #boxAreasOper, #boxNiveis  {
+    width: 750px;
+    border: 1px solid #B6C9DD;  
+    overflow-x: hidden;
+    overflow-y: auto;   
+    padding: 0;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+#boxAreas, #boxAreasOper {
+    height: 200px;
+}
+#boxNiveis {
+    height: 115px;
+}
+#boxPesqOrigem {
+    height: 115px;
+}
+#boxAreas .selected, #boxAreasOper .selected, #boxNiveis .selected, #boxPesqOrigem .selected
+{
+    background-color: #235FB1;
+}
+#boxAreas .listAreas, #boxAreasOper .listAreas, #boxNiveis .listNiveis, #boxPesqOrigem .listPesqOrigem {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#boxAreas .listAreas li, #boxAreasOper .listAreas li, #boxNiveis .listNiveis li, #boxPesqOrigem .listPesqOrigem li {
+    margin-left: 5px;
+    font-size:11px;
+    color:#0066cc;
+}
+#boxAreas .listAreas li label , #boxAreasOper .listAreas li label , #boxNiveis .listNiveis li label , #boxPesqOrigem .listPesqOrigem li label {
+    width: 100%;    
+}
+#boxPesqOrigem .listPesqOrigem li {
+    padding: 3px;
+}
+#boxAreas .listAreas li.selected, 
+#boxAreas .listAreas li.hover, 
+#boxAreasOper .listAreas li.selected, 
+#boxAreasOper .listAreas li.hover, 
+#boxNiveis .listNiveis li.selected, 
+#boxNiveis .listNiveis li.hover, 
+#boxPesqOrigem .listPesqOrigem li.selected, 
+#boxPesqOrigem .listPesqOrigem li.hover {
+    background-color: #0066cc;
+    color: #FFFFFF;
+}
+#boxAreas .coluna, 
+#boxAreasOper .coluna {
+    float: left;
+    padding: 5px;   
+    width: 230px;
+}
+#boxNiveis .coluna {
+    float: left;
+    padding: 5px;   
+    width: 660px;
+}
+#boxPesqOrigem .coluna {
+    float: left;
+    padding: 5px;   
+    width: 220px;
+}
+    
+/* campo selectppd */
+.selectPPD
+{
+    width: 335px;
+    /*border: 1px solid #969696;
+    height: 21px;*/
+    overflow-x: hidden;
+    overflow-y: auto;   
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #FFFFFF;
+}
+.linhaAbaixo
+{
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:11px;
+    width:710px;
+    padding:0px 0px 15px 23px;
+    color:#555555;
+    display:block;
+}
+.alertPersonal {
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:10px;
+    padding:4px 0 4px 0;
+    display:table;
+    color:#ff0000;
+}
+label {cursor:pointer;}
+.linkExemplo {
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:11px;
+    color:#0072BC;
+    text-align:right;
+}
+.linkExemplo a:link, .linkExemplo a:hover {
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:11px;
+    color:#0072BC;
+    text-decoration:underline;
+    text-align:right;
+}
+.abreExemplo {
+    text-align:right;
+    float:right;
+}   
+.carregandos {
+    font-family:Arial,Helvetica,sans-serif;
+    font-size: 11px; 
+    color:#000000;
+}
+#topoInc {
+    margin:0 auto;
+    height: 94px;
+    background-image: url(http://img.catho.com.br/site/topbottom/bkgTopo.gif);
+    background-repeat: repeat-x;
+    background-position: top;
+    width:770px;
+}
+.logo {
+    background-image: url(http://img.catho.com.br/site/topbottom/imgTopoEsq.gif);
+    background-repeat: no-repeat;
+    background-position: left top;
+    padding-left: 15px;
+    padding-right: 25px;
+}
+.centralAjuda a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #FFFFFF;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.centralAjudaEsq {
+    background-image: url(http://img.catho.com.br/site/topbottom/imgBoxIncHelpEsq.gif);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.centralAjudaDir {
+    background-image: url(http://img.catho.com.br/site/topbottom/imgBoxIncHelpDirBot.gif);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.ttInclusao {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0054a6;
+}
+.topoDir {
+    background-image: url(http://img.catho.com.br/site/topbottom/imgTopoDir.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.centralAjuda .icoAtendimento {
+    background-image: url(http://img.catho.com.br/site/topbottom/icoAtendimento.gif);
+}
+.centralAjuda .icoVantagens {
+    background-image: url(http://img.catho.com.br/site/topbottom/icoVantagem.gif);
+}
+.centralAjuda .icoPrecos {
+    background-image: url(http://img.catho.com.br/site/topbottom/icoPrecos.gif);
+}
+#breadCrumb {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #333333;
+    background-image: url(http://img.catho.com.br/site/topbottom/bkgBreadCrumb.gif);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    min-height: 14px;
+    line-height: 16px;
+    height: 19px;
+    width:770px;
+    margin:0 auto;
+    text-align:left;
+}
+#breadCrumb a {
+    color: #333333;
+    
+}
+#breadCrumb .breadItens {
+    /*display: block;*/
+    margin-left:18px;
+    padding-top:2px;
+}
+#breadCrumb .breadItens .breadSeta {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+/******************************************************************************************/
+.legendaObrig {
+    width: 770px; 
+    font-size: 11px;
+    margin: 5px 0px 20px 0px; 
+}
+.fucinzaNoLine .input, .line .input {
+    width: 337px;   
+}
+.fucinzaNoLine .inputSmall, .line .inputSmall {
+    width: 95px;
+}
+.inputSmall-02 {
+    width: 65px;
+}
+.inputSmall-03 {
+    width: 140px; *width: 139px;
+}
+.input-Date-Exp { width: 50px; }
+.input-Date-Pay { width: 60px; }
+.fucinzaNoLine .inputMedium, .line .inputMedium {
+    width: 180px;   
+}
+#pesq_origem option{
+/*  padding: 5px;*/
+}
+.errorMsg {
+    background-color: #BF2323;
+    color: #FFF;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+/***********************************************************************************/
+.colorGrey   { color:#555555; }
+.colorGrey02 { color:#999999; }
+.colorBlack  { color:#333333; }
+.colorBlue   { color:#003E8D; }
+.colorOrange { color:#FF6600; }
+.colorPurple { color:#88498F; }
+.colorRed    { color:#d70000; }
+.margin-Bottom-15 { margin-bottom:15px; }
+.size11     { font-size:11px; }
+.size12     { font-size:12px; }
+.size14     { font-size:14px; }
+.size16     { font-size:16px; }
+.size18     { font-size:18px; }
+.size22     { font-size:22px; }   
+.size22     { font-size:22px; }
+.txtN       { font-weight: normal;}
+.bkg-Header  { background:url(http://img.catho.com.br/site/home2009/bgheader.jpg) repeat-x; width:945px; border-bottom:20px solid #EDEDED; }
+.logo-Top    { display:inline; float:left; margin:5px 0 5px 10px; }
+.titulo-Site-Top { color:#003E8D; font-family:Arial,Helvetica,sans-serif; font-size:22px; font-weight:bold; margin:30px 40px 20px; float:left; }
+.border-Out  { border-left:12px solid #EDEDED; border-right: 12px solid #EDEDED; width:945px; margin:0 auto; }
+.bkg-Bottom  { background:#EDEDED; border-bottom:1px solid #CDCDCD; width:935px; text-align:right; padding:5px 10px 5px 0px; }
+.bkg-Bottom  a{ color: #333333; text-decoration:none; }
+.bkg-Bottom  a:hover{ text-decoration:underline; }
+.copyRight   { background:#EDEDED; width:945px; padding:10px 0px 10px 0px; }
+.titulo-Site { color:#FF6600; font-family:Arial,Helvetica,sans-serif; font-size:22px; font-weight:bold;}
+.sub-Topico  { color:#FF6600; font-family:Arial,Helvetica,sans-serif; font-size:14px; }
+.table-Blue    { width:710px; margin:0 auto; }
+.table-Blue td { background:#f6fbff; }
+.step-Top { margin:0px; padding:0px; list-style:none; width:380px; margin:0 auto; padding:30px 0px 30px 0px; height:15px; }
+.step-Top li { float:left; text-align:center; margin-right:20px; }
+.cont-Box { width:770px; margin:0 auto; }
+.box-Assign { background:#FCFCFC; border-bottom:1px solid #cecece; float:left; list-style:none; text-align:left; padding:0px; margin:0px; margin-bottom:7px; }
+.box-Assign li { padding:10px; }
+.seta-Close { position:relative; top:-2px; *top:0px; margin-right:2px; }
+.box-Assign .box-Top { background: #f5f5f5 url(http://img.catho.com.br/site/help/arrow-title.gif) no-repeat left 50%; padding-left:30px; }
+.box-Assign .box-Top-Yellow { background:#fff4cb; } 
+.size-No-Assign { width:462px; height:122px; float:left; text-align:left; position:relative; padding:52px 20px 20px 20px; background-color:#fff48b; border:1px solid #af9700; }
+.size-No-Assign-Title { background:#ffec47; width:502px; position: absolute; top:0px; left:0px; height:37px; line-height:37px; }
+.size-No-Assign-Title h1 { display:inline; }
+.how-To { position:absolute; top:13px; left:273px; }
+.how-To a{ font-size:11px; color:#d70000; text-decoration:underline; }
+.size-Assign { width:251px; height:195px; margin-left:10px; }
+.size-Ex-Assign { width:765px; }
+.list-Ex-Assign { margin:0px; padding:0px; list-style:none; width:683px; margin:0 auto; }
+.list-Ex-Assign li { float:left; }
+.bkg-Grey-Form { background:#F8F8F8; width:710px; margin:0 auto; padding:10px 0px 15px 0px; }
+.bkg-Grey-FormLong { background:#F8F8F8; width:770px; margin:0 auto; padding:10px 0px 15px 0px;}
+.alert-icon {
+    background:transparent url(http://img.catho.com.br/site/area-assinantes/icon-alert2.gif) no-repeat scroll 0 0;
+    float:left;
+    height:33px;
+    padding-right:10px;
+    width:14px;
+}
+.box-Informativo div.alert-icon-ok {
+    background:transparent url(http://img.catho.com.br/site/inclusao/icon-Ok.gif) no-repeat scroll 0 0;
+    float:left;
+    height:33px;
+    padding-right:10px;
+    width:14px;
+}
+
+
+.alert-icon-Error {
+    background:transparent url(http://img.catho.com.br/site/home2009/icones/iconError.gif) no-repeat scroll 0 0;
+    float:left;
+    height:33px;
+    padding-right:10px;
+    width:14px;
+}
+.alert-msg {
+    margin:10px auto;
+    margin-top:0px;
+    padding:4px 8px;
+    width:664px;
+}
+.alert-msg-02 {
+    background-color:#F8F8F8;
+    border:1px solid #cecece;
+    margin-bottom:20px;
+}
+.alert-msg-03 {
+    background-color:#f0fafc;
+    border:1px solid #afcadd;
+    margin:0 auto;
+    margin-bottom:10px;
+    padding:8px;
+    width:690px;
+}
+.alert-msg-03 div        { float:left; position:relative; width:600px; font-size:11px; }
+.alert-msg-03 div strong { font-size:12px; }
+.alert-msg-03 div.alert-icon-Information {
+    background:transparent url( http://img.catho.com.br/site/home2009/icones/iconInformacao.gif) no-repeat scroll 0 0;
+    float:left;
+    height:33px;
+    padding-right:10px;
+    width:14px;
+}
+.alert-msg-04 {
+    background-color:#FFF5F5;
+    border:1px solid #FF8686;
+    margin:0 auto;
+    margin-bottom:20px;
+    padding:8px;
+    width:690px;
+    color:#FF0000;
+}
+.alert-msg-05 {
+    background-color:#f0fafc;
+    border:1px solid #afcadd;
+    margin:0 auto;
+    padding:10px;
+    width:600px;
+    margin-top:10px;
+    
+}
+.alert-msg-05 div        { float:left; position:relative; width:600px; font-size:11px; }
+.alert-msg-05 div strong { font-size:12px; }
+.alert-msg-05 div.alert-icon-Information {
+    background:transparent url( http://img.catho.com.br/site/home2009/icones/iconInformacao.gif) no-repeat scroll 0 0;
+    float:left;
+    height:33px;
+    padding-right:10px;
+    width:14px;
+}
+.alert-msg-06 {
+    background-color:#f0fafc;
+    border:1px solid #afcadd;
+    padding:10px;
+    width:695px;
+    height:70px;
+    float:left;
+    
+}
+.alert-msg-06b { float:left; width:660px; font-size:11px; }
+.alert-msg-06a {
+    background:transparent url( http://img.catho.com.br/site/home2009/icones/iconInformacao.gif) no-repeat scroll 0 0;
+    float:left;
+    height:50px;
+    padding-right:10px;
+    width:14px;
+}
+.alert-msg-07 {
+    background-color:#f0fafc;
+    border:1px solid #afcadd;
+    margin:0 auto;
+    padding:10px;
+    width:690px;
+    margin-top:10px;
+    
+}
+.alert-msg-07 div        { float:left; position:relative; width:600px; font-size:11px; }
+.alert-msg-07 div strong { font-size:12px; }
+.alert-msg-07 div.alert-icon-Information {
+    background:transparent url( http://img.catho.com.br/site/home2009/icones/iconInformacao.gif) no-repeat scroll 0 0;
+    float:left;
+    height:16px;
+    padding-right:10px;
+    width:14px;
+}
+.alert-msg-branco { background-color:#ffffff; border:1px solid #CECECE; margin:0 auto; margin-bottom:10px; padding:8px; width:690px; }
+
+.box-Informativo     { margin:0px 0px 10px 15px; width:680px; font-size:11px; }
+.box-Informativo div { float:left; position:relative; width:600px; }
+
+
+.spaces-Help-Int { margin-left:5px; }
+.cont-Confibility { font-size:11px; padding:0px 0px 15px 23px; color:#555555; display:block; }
+.sub-Title-ul       { padding: 0px; margin:0px; list-style:none; width:713px; margin-left:33px; margin-top:30px; margin-bottom:20px; border-bottom:1px solid #ffe5d4; }
+.sub-Title-li-Left  { display: inline-block; *float:left; width:600px; }
+.sub-Title-li-Right { display: inline-block; *float:left; width:100px; text-align: right; }
+.select-Move { position: relative; height: 25px; line-height:25px; padding-left:10px; background:#f1f1f1; }
+.select-Move-ul { list-style:none; padding:0px; margin:0px; }
+.select-Move-li-01 { float:left; display:inline; width: 328px; height:25px; line-height:25px; }
+.select-Move-li-02 { position: relative; height: 25px; line-height:25px; padding-left:33px; background:#f8f8f8; top:0px; right:0px; width:153px; float:left; display:inline; }
+.noClickOrder {
+    color: #CCCCCC;
+    display: none;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:11px;
+    text-align:right;
+}
+.color-Blue-Link   { color:#0066CC; }
+.color-Purple-Link { color:#ae6cd8; }
+.clearfix {
+    zoom: 1;
+}
+.clearfix:after {
+    content: ".";
+    clear: both;
+    display: block;
+    height: 0px;
+    visibility: hidden;
+}
+.certificados {
+    background-color: #EDEDED;
+    border-bottom: 1px solid #ccc;
+    font: 12px Arial, Helvetica, sans-serif;
+    padding: 0px 15px;
+    *padding: 10px 15px;
+}
+.certificados .box-name {
+    color: #97999a;
+    float: left;
+    font-weight: 700;
+    width: 200px;
+}
+.certificados .box-name span {
+    color: #000000;
+}
+.certificados ul {
+    float: left;
+    list-style-type: none;
+    padding-left: 135px;
+}
+.certificados .logos-certificados li {
+    float: left;
+    padding: 0 10px;
+}
+.selo-header .certificados {
+    background-color:#FFFFFF;
+    border: 1px solid #ccc;
+    clear: both;
+    margin: 0 auto;
+    *margin: 10px auto;
+    width: 480px;
+    *width: 530px;
+}
+.selo-header .certificados ul {
+    float: right;
+    padding-left: 0px;
+}
+.selo-header .certificados .logos-certificados li {
+    float: left;
+    padding: 0 10px;
+}
+.selo-header .certificados .box-name {
+    font-size: 10px;
+    text-align: left;
+    width: 100px;
+}
+.selo-header .certificados .box-name strong {
+    display: block;
+}
+.selo-header .certificados .logos-certificados .blindado {
+    width: 120px;
+}
+
+#aviso-email {
+    border: 1px solid #d1d0cf;
+    margin: 15px 0;
+    padding: 10px;
+    text-align: left;
+}
+
+#aviso-email h5 {
+    color: #fa6519;
+    font-size: 20px;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+#aviso-email p {
+    margin: 0;
+    padding: 3px 0;
+}
+
+.box-atualize {
+    border: 1px solid #d5d5d5;
+    font-size: 12px;
+    margin: 25px 0;
+    padding: 10px;
+    text-align: left;
+}
+
+.box-atualize h5 {
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+.box-atualize p {
+    margin: 0;
+    padding: 5px 0;
+}
+
+#perfil {
+    margin: 0 auto;
+    position: relative;
+    width: 708px;
+    z-index: 10;
+}
+
+.box-perfil {
+    background: url(http://img.catho.com.br/site/inclusao/bg_Plan_Off.gif) repeat-x 0 bottom;
+    border-bottom: 1px solid #cccccc;
+    height: 88px;
+    padding: 12px 5px;
+}
+/* CSS Document */
+
+.txtTopicoPerf   { 
+    font-size:14px; 
+    font-weight:bold; 
+    color:#FF6600;
+    margin:5px 0px 10px 0px; }
+
+.subtopico {
+    border-bottom-color: #FFE5D4;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    color: #FF6600;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.box-perfilNovoA {
+    background: url(http://img.catho.com.br/site/inclusao/bg_Plan_On.gif) repeat-x 0 bottom;
+    border: 1px solid #dfbe99;
+    height: 250px;
+    width: 325px;
+    padding: 10px;
+    position:relative; 
+}
+
+.box-perfilNovoB {
+    background: url(http://img.catho.com.br/site/inclusao/bg_Plan_Off.gif) repeat-x 0 bottom;
+    border: 1px solid #cccccc;
+    height: 250px;
+    width: 325px;
+    padding: 10px;
+    position:relative; 
+}
+
+
+
+
+
+.titul  {   width:325px; 
+        display:block;  
+        padding:10px; 
+        position:absolute; 
+        left:0px; top:0px;  
+        margin:0px; }
+
+
+.selo        { position:absolute; right:-4px; top:-4px;}
+
+
+              
+.caixaAlertaPerfilX { 
+    border:1px solid #D2D1D0; 
+              padding:10px; 
+              color:#333; 
+              width:300px;
+              height:145px;
+              position:absolute; 
+                          left:10px; top:90px;} 
+                                      
+      
+ 
+
+#perfilNovo {
+    width: 700px;
+
+}
+
+
+
+
+.faixa {
+    position: absolute;
+    right: -5px;
+    *right: -12px;
+    top: -12px;
+}
+
+.faixa-maior {
+    background: url(http://img.catho.com.br/site/inclusao/faixa-novo-preco.gif) no-repeat 0 0;
+    height: 94px;
+    width: 94px;
+}
+
+.faixa-menor {
+    background: url(http://img.catho.com.br/site/inclusao/faixa-novo-preco2.gif) no-repeat 0 0;
+    height: 72px;
+    width: 72px;
+}
+
+#perfil .dest {
+    color: #b85c21;
+    font-weight: 700;
+}
+
+#perfil .box-redu {
+    height: 126px;
+}
+
+#perfil .box-redu .about {
+    width: 260px;
+}
+
+#perfil .ppd_perfil {
+    height: 110px;
+}
+
+#perfil .active {
+    background: url(http://img.catho.com.br/site/inclusao/bg_Plan_On.gif) repeat-x 0 bottom;
+    border-bottom: 1px solid #DFBE99;
+}
+
+.box-perfil a , .box a{
+    color: #0066cc;
+    font-size: 11px;
+    font-weight: normal;
+}
+
+.box-perfil a:hover , .box a:hover{
+    text-decoration: none;
+}
+
+.box-perfil a.open, .box a.open {
+    position: relative;
+    z-index: 1000;
+}
+
+.prod-info {
+    background:#FFFFFF url(http://img.catho.com.br/site/inclusao/iconArrow.gif) no-repeat 3px top;
+    border: 1px solid #cccccc;
+    color: #333333;
+    font-size: 11px;
+    left: 0;
+    margin: 0;
+    padding: 4px;
+    position: absolute;
+    top: 13px;
+    width: 220px;
+}
+
+.mais-serv {
+    width: 320px;
+    height: 200px;
+}
+
+.prod-info-box {
+    background:#FFFFFF url(http://img.catho.com.br/site/inclusao/iconArrow.gif) no-repeat 100px top;
+    left: -75px;
+    border: 1px solid #cccccc;
+    color: #333333;
+    font-size: 11px;
+    margin: 0;
+    padding: 4px;
+    position: absolute;
+    top: 13px;
+    width: 220px;
+    z-index:4000;
+}
+
+.prod-info-box {*margin-left: -150px;}
+
+#perfilNovo table{
+    z-index:1;
+}
+
+.box .leftIE{
+    left: -0px;
+    margin-left: -200px;
+    background-position: 190px 0px;
+}
+.box .rightIE{
+    left: 0px;
+    margin-left: -75px;
+    background-position: 3px 0px;
+}
+
+.box .left{
+    left: -140px;
+    background-position: 190px 0px;
+}
+.box .right{
+    left: 0px;
+    background-position: 3px 0px;
+}
+
+.mais-serv-box {
+    width: 240px;
+    height: 100px;
+    z-index:4000;
+}
+
+#perfil .prod-info strong {
+    font-size: 11px;
+}
+
+.box-perfil input {
+    float: left;
+    width: 20px;
+}
+
+.box-perfil .name {
+    font-weight: 700;
+    float: left;
+    padding-right: 15px;
+    width: 135px;
+    color: #333333;
+}
+
+.box-perfil strong {
+    display: block;
+    font-size: 16px;
+}
+
+.box-perfil small {
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+}
+
+.box-perfil .about {
+    color: #333333;
+    font-size: 11px;
+    float: left;
+    width: 517px;
+}
+
+.more-price {
+    float: left;
+    position: relative;
+    width: 260px;
+    z-index: 0;
+}
+
+.box-perfil ul {
+    margin: 0;
+    padding: 14px 0 0 14px;
+}
+
+.box-perfil li {
+    font-size: 11px;
+    padding-bottom: 6px;
+}
+
+.splash-price {
+    float: left;
+    font-size: 11px;
+    padding: 38px 0 0 15px;
+    width: 80px;
+}
+
+.splash-price span {
+    text-decoration: line-through;
+}
+
+.splash-op {
+    background: url(http://img.catho.com.br/site/inclusao/selo-790-desistencia.gif) no-repeat 0 0;
+    float: right;
+    height: 120px;
+    width: 145px;
+    padding-top:0px;
+}
+
+.splash-ppd {
+    background: url(http://img.catho.com.br/site/inclusao/selo-790-desistencia.gif) no-repeat 0 0;
+    float: right;
+    height: 120px;
+    width: 145px;
+    padding-top:0px;
+}
+
+.alert-icon {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:transparent url(http://img.catho.com.br/site/area-assinantes/icon-alert2.gif) no-repeat scroll 0 0;
+float:left;
+height:33px;
+padding-right:10px;
+width:14px;
+}
+
+.preOperador {
+    height: auto;
+    width: 720px;
+    background: url(http://img.catho.com.br/site/inclusao/bg_Plan_Off.gif) repeat-x 0 bottom;
+    border: 1px solid #FFE5D4;
+    margin: 0 auto;
+
+}
+.preOperador table {
+    width: 720px;
+
+}
+.preOperador table .colnCenter {
+    background: #F0F0F0;
+}
+    
+.preOperador table .colnEsq {
+    background: #F0F0F0;
+    width: 280px;
+    font-weight: bold;}
+
+.preOperador table .colnDir {
+    background: #F8F8F8;}
+    
+.preOperador table .colnDir a {
+    color: #0072BC;
+}
+.exptd {padding-bottom:15px}
+.mgAddExp { margin-left:230px;}
+.expFloatRight { float: right;}
+.expFloatLeft { float: left; }
+.floatUpDown { float: right; padding: 0 10px 0 0 }
+.addfloatRight { float: right; padding: 0 15px 0 0 }
+.remfloatRight { float: right; padding: 0 10px 5px 0 }
+.lineRans {border: 0px; height:1px; background: #cccccc}
+.lineDotted {border: 0px; height:1px; background: #cccccc dotted; }
+.select-ExpTip { height: 37px; line-height:37px; padding-left:10px; background:#f1f1f1 url(http://img.catho.com.br/site/inclusao/right-MoveG.gif) no-repeat right bottom; width: 350px; font-size:14px;margin: 1px 0px 1px 1px;}
+.bg-ExpLine { padding:5px 10px; background:#f1f1f1;margin: 1px 0px 1px 1px; height:20px; line-height:20px;}
+.bg-ExpCargo { padding: 10px 20px 20px 20px; background:#F8F8F8;}
+.td-ExpCargo { background:#f1f1f1; margin: 10px 0 0 0;}
+.fucinza-Exp { width: 490px; float: left; background:#f1f1f1; padding-left: 3px; }
+.fuazul-Exp {   width: 176px; color:#333333; font: 12px Arial, Helvetica, sans-serif; text-align: right; display: block; float: left; padding: 8px 5px 8px 0; background:#f0f0f0;}
+
+.fixedOnIE { 
+ *position: absolute; 
+ *top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+'px'); 
+ *left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+'px'); 
+}
+
+
+.alignSemTempo2 {float: left; padding: 10px 0 0 15px;
+}
+.alignSemTempo3 {float: left; padding:15px 0 0 10px;
+}
+.alignSemTempo4 {float: right;
+}

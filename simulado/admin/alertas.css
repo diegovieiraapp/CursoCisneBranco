@@ -1,0 +1,36 @@
+.msg1 .code,.msg2 .code,.msg3 .code{font-weight:bold;color:#777;font:9px arial,sans-serif  !important;text-transform:uppercase;padding:0 !important;}.msg1 .only-code,.msg2 .only-code{margin-bottom:0;}
+.msg1 dt{border:none!important;background:none repeat scroll 0 0 transparent !important;color:#000000 !important;font:700 16px arial,sans-serif !important;margin:0 0 -8px;padding:0 !important;}.msg1 dd{margin:0;padding:10px 0 0 1px;font:13px arial,sans-serif;}.ok1{background-color:#F3F9F1;background-position:-729px -40px;}
+.alert1{background-color:#FDF9EC;background-position:-637px -150px;}.error1{background-color:#FFEFEF;background-position:-545px -260px;}.wait1{background:#F7F7F7 url(http://img.uol.com.br/p/g/alertas/alerts-wait-large.gif) no-repeat scroll 10px 10px;}
+.info1{background-color:#F1F5F8;background-position:-454px -370px;}.hint1{background-color:#FFFFE6;background-position:-361px -480px;}.msg2{background:transparent url(http://img.uol.com.br/p/g/alertas/alerts-medium-stairs.gif) no-repeat scroll 0 0;padding:10px 10px 10px 40px !important;margin:0px !important;zoom:1;}
+.msg2 dt{background: none  !important; border-bottom:none !important; color: #000 !important; font:700 12px arial,sans-serif  !important;margin:0 0 -8px 0; padding: 0  !important;}.msg2 dd{margin:0;padding:8px 0 0 1px  !important;font:12px arial,sans-serif  !important;}.ok2{background-color:#F3F9F1;background-position:-905px -40px;}
+.ok2-w{background-color:#fff;background-position:-826px -115px;}.alert2{background-color:#FDF9EC;background-position:-749px -190px;display:block;z-index:1000!important;}.alert2-w{background-color:#fff;background-position:-674px -267px;}
+.error2{background-color:#FFEFEF;background-position:-598px -343px;}.error2-w{background-color:#fff;background-position:-522px -419px;}.wait2{background:#F7F7F7 url(http://img.uol.com.br/p/g/alertas/alerts-wait-medium.gif) no-repeat scroll 10px 10px;}
+.wait2-w{background:#fff url(http://img.uol.com.br/p/g/alertas/alerts-wait-medium.gif) no-repeat scroll 10px 10px;}.info2{background-color:#F1F5F8;background-position:-445px -494px;}
+.info2-w{background-color:#fff;background-position:-370px -571px;}.hint2{background-color:#FFFFE6;background-position:-295px -647px;}.hint2-w{background-color:#FFF;background-position:-219px -723px;}
+.msg3{background:transparent url(http://img.uol.com.br/p/g/alertas/alerts-small-stairs.gif) no-repeat scroll 0 0;padding:5px 5px 0 30px;margin:5px 0;zoom:1;clear:both;}
+.msg3 dt{font:700 11px arial,sans-serif;margin:0 0 -8px 0;float:left;padding:0 5px 0 0;}.msg3 dd{margin:0;font:11px arial,sans-serif;padding-bottom:10px;}.msg3 .code{clear:both;display:block;width:100%;margin-top:-10px;padding:0 0 10px 0;}
+.ok3{background-color:#F3F9F1;background-position:-917px -49px;}.ok3-w{background-color:#fff;background-position:-851px -115px;}.alert3{background-color:#FDF9EC;background-position:-785px -180px;}
+.alert3-w{background-color:#fff;background-position:-719px -247px;}.error3{background-color:#FFEFEF;background-position:-653px -313px;}.error3-w{background-color:#fff;background-position:-587px -379px;}
+.wait3{background:#F7F7F7 url(http://img.uol.com.br/p/g/alertas/alerts-wait-small.gif) no-repeat scroll 7px 4px;}.wait3-w{background:#fff url(http://img.uol.com.br/p/g/alertas/alerts-wait-small.gif) no-repeat scroll 7px 4px;}
+.info3{background-color:#F1F5F8;background-position:-521px -445px;}.info3-w{background-color:#fff;background-position:-455px -511px;}.hint3{background-color:#FFFFE6;background-position:-389px -577px;}
+.hint3-w{background-color:#FFF;background-position:-323px -643px;}
+.confirm dd a, .confirm dd a:visited{color:#444;font-weight:bold;text-transform:uppercase;padding-right:20px;}.confirm dd a:hover{text-decoration:underline;}
+
+fieldset { border:1px solid #DFEBFD;padding:10px; }
+
+.contato legend{
+font-family:Verdana, Geneva, sans-serif;
+color:#06F;
+font-size:12px;	
+font-weight:bold;
+}
+
+.suplasumo{
+background-color:#5b99c0;
+color:#FFF;
+}
+
+.suplasumo td{
+font-family:Verdana, Geneva, sans-serif;
+font-weight:bold;
+}
